@@ -1,0 +1,42 @@
+h1 {
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(255, 0, 191);
+    font-size: 30px;
+}
+
+p {
+    color: blueviolet;
+    font-size: 18px;
+}
+
+.presentación {
+    font-size: 30px;
+    font-weight: bold;
+    font-style:italic;
+}
+
+img {
+    background-color: chartreuse;
+    width: 200px;
+    height: 250px;
+    border: 5px solid burlywood;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+
+.Saludos {
+    background-color: rgb(157, 255, 0);
+    width: 300px;
+    height: 500px;
+}
+
+.destacar {
+    background-color: black;
+}
