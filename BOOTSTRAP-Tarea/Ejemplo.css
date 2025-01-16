@@ -1,0 +1,6 @@
+.acoordion-button:not(.collapsed) {
+    background-color: rosybrown;
+    color: black;
+    font-weight: 900;
+}
+
