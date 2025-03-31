@@ -1,0 +1,6 @@
+[submodule "Express"]
+	path = Express
+	url = https://github.com/BEA522/Express.git
+[submodule "Diplo-Full"]
+	path = Diplo-Full
+	url = https://github.com/BEA522/Diplo-Full.git
